@@ -1,0 +1,39 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 60% 25%;
+    background-attachment: fixed;
+    background-position: top;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1rem;    
+} 
+/*.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+} */
+.bold {
+    font-weight: bold;
+}
+h5 {
+    background-image: url("background2.png");
+    background-repeat: no-repeat;
+    background-size: 36%, 90%;
+    background-position: center;
+}
+a {
+    text-decoration: None;
+    color: white;
+}
+a:link{
+    color: brown;
+}
+a:hover {
+    color: orange;
+    text-decoration: underline;
+    background-color: black;
+}
