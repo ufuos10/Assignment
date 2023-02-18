@@ -1,7 +1,7 @@
 body {
-    background-image: url("background.jpg");
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200821/pngtree-dark-green-ordinary-wallpaper-image_396564.jpg");
     background-repeat: no-repeat;
-    background-size: 60% 25%;
+    background-size: 100rem 9rem;
     background-attachment: fixed;
     background-position: top;
     color: white;
@@ -9,28 +9,26 @@ body {
     text-align: center;
     font-size: 1rem;    
 } 
-/*.center {
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    background-color: rgb(29, 28, 28);
+    width: 21rem;
     
-} */
+} 
 .bold {
     font-weight: bold;
 }
-h5 {
+/*h5 {
     background-image: url("background2.png");
     background-repeat: no-repeat;
     background-size: 36%, 90%;
     background-position: center;
-}
-a {
+}*/
+a, a:link {
     text-decoration: None;
     color: white;
-}
-a:link{
-    color: brown;
 }
 a:hover {
     color: orange;
